@@ -10,7 +10,7 @@ Hello there! 👋
 
 - 📫  email on rogerio.eguchi@gmail.com and
 
-- Visit my Blog on reguchi.wordpress.com or follow me on twitter reguchi_br
+- Visit my Blog on https://reguchi.wordpress.com or follow me on twitter reguchi_br
  
 <!---
 reguchibr/reguchibr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
