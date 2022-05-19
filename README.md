@@ -4,7 +4,7 @@ Hello there! 👋
 
 - 👀 I’m interested in cloud, databases, devops, sre, gitops, dataops and brewing beer :)
 
-- 🌱 I’m currently learning gcp cloud, terraform, k8s, docker and CI/CD pipelines.
+- 🌱 I’m currently doing gcp cloud, terraform, k8s, docker and CI/CD pipelines.
 
 - 💞️ I’m looking to collaborate on making the world a better place to live !
 
